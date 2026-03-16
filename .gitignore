@@ -1,0 +1,32 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Tt]est_Plan_AR_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Fichiers de projet Visual Studio / VS Code
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.com.apple.timemachine.plist
+.vscode/
+
+# Builds
+*.apk
+*.unitypackage
+*_BurstDebugInformation_DoNotShip/
+
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+.utmp/
