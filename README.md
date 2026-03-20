@@ -1,6 +1,6 @@
 # Projet Smart Trash Scans :
 
-### ** Qu'est-ce que c'est ? **
+### **Qu'est-ce que c'est ?**
 - Système intelligent de gestion des déchets pour une ville avec monitoring en Réalité Augmentée. 
 - Infrastructure IoT (Arduino) détectant l'état des poubelles (Pleine/Vide/Renversée) via des capteurs sensoriels. 
 - Interface Unity AR affichant le statut en temps réel et le trajet d'optimisation du camion de collecte.
