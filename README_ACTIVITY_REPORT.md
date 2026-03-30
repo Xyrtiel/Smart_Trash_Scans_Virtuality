@@ -6,3 +6,6 @@
 
 # Lundi 23 mars 2026 :
 -> Tutoriel Unity "Add a UI with rotation buttons" Chapitre 2 + corrections soucis avec différents Assets
+
+# Lundi 30 mars 2026 :
+-> Mise en place du pathfunding avec installation de l'AI Navigation 
