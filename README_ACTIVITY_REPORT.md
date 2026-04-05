@@ -9,3 +9,6 @@
 
 # Lundi 30 mars 2026 :
 -> Mise en place du pathfunding avec installation de l'AI Navigation 
+
+# Dimanche 05 avril 2026 :
+-> Continuation de la mise en place du pathfunding avec première version fonctionnelle mais avec bugs qui seront fixés plus tard
