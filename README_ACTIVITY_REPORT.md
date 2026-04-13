@@ -12,3 +12,6 @@
 
 # Dimanche 05 avril 2026 :
 -> Continuation de la mise en place du pathfunding avec première version fonctionnelle mais avec bugs qui seront fixés plus tard
+
+# Lundi 13 avril 2026 :
+-> Mise en place du pathfunding entre camion et poubelle (partie 1) avec corrections bugs texture camion 
