@@ -15,3 +15,7 @@
 
 # Lundi 13 avril 2026 :
 -> Mise en place du pathfunding entre camion et poubelle (partie 1) avec corrections bugs texture camion 
+
+# Lundi 20 avril 2026 : 
+-> Mise en place fonctionnel du pathfunding entre camion et poubelle (partie 2) 
+-> Mise à jour pathfunding pour un camion et 3 poubelles
